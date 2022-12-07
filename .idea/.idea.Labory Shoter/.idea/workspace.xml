@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="389251d3-9a55-43f4-b162-bb81da75f923" name="Default Changelist" comment="" />
+    <list default="true" id="389251d3-9a55-43f4-b162-bb81da75f923" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Labory Shoter/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Labory Shoter/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Labory Shoter/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Labory Shoter/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Labory Shoter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Labory Shoter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Enemy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Enemy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Flag.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Flag.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/GameIntarfase.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/GameIntarfase/ILivingObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/GameIntarfase/ILivingObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Player.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Player/Player.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Player/Player.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Player/SimpleLibrarian.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Player/SimpleLibrarian.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Thing.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Thing/Thing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Thing/Thing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Weapon.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Weapon/SimpleHands.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Weapon/SimpleHands.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Weapon/Weapon.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Weapon/Weapon.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Flag.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Enemy.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scenes/Scripts/GameIntarfase/ILivingObject.cs" root0="FORCE_HIGHLIGHTING" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -71,6 +97,8 @@
       <workItem from="1669556717332" duration="3887000" />
       <workItem from="1670158947422" duration="235000" />
       <workItem from="1670159211136" duration="5286000" />
+      <workItem from="1670184439695" duration="643000" />
+      <workItem from="1670259940944" duration="375000" />
     </task>
     <servers />
   </component>
@@ -78,24 +106,5 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Assets/Project/Scenes/Scripts/Enemys/Enemy.cs</url>
-          <line>18</line>
-          <properties documentPath="G:\Labory Shoter\Assets\Project\Scenes\Scripts\Enemys\Enemy.cs" initialLine="12">
-            <startOffsets>
-              <option value="356" />
-            </startOffsets>
-            <endOffsets>
-              <option value="357" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

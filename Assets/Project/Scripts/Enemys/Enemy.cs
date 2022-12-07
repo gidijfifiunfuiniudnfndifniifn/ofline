@@ -57,6 +57,7 @@ public abstract class Enemy : MonoBehaviour,ILivingObject
 
     private void Update()
     {
+        AssignmentHostilObject();
         GoToHostilObject();
     }
 }
